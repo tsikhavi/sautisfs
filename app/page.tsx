@@ -18,7 +18,7 @@ export default function Page() {
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
             <strong>Welcome to Sautis.</strong> This is the example for the{' '}
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
+            <a href="https://sautis.com/" className="text-blue-500">
               Vodovos Web Site
             </a>
             , brought to you by Sautis
